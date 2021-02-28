@@ -1,2 +1,2 @@
 # Calculator
- A basic calculator app
+ A basic calculator GUI app.
